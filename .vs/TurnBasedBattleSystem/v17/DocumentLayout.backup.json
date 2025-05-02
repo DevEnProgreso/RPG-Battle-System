@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frede\\Desktop\\Turn Based Battle System\\TurnBasedBattleSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD265A6-4733-41BA-86E6-2DEB8BF10234}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|c:\\users\\frede\\desktop\\turn based battle system\\turnbasedbattlesystem\\turnbasedbattlesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD265A6-4733-41BA-86E6-2DEB8BF10234}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|solutionrelative:turnbasedbattlesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD265A6-4733-41BA-86E6-2DEB8BF10234}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|c:\\users\\frede\\desktop\\turn based battle system\\turnbasedbattlesystem\\turnbasedbattlesystem\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD265A6-4733-41BA-86E6-2DEB8BF10234}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|solutionrelative:turnbasedbattlesystem\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Frede\\Desktop\\Turn Based Battle System\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Unit.cs",
+              "RelativeDocumentMoniker": "TurnBasedBattleSystem\\Unit.cs",
+              "ToolTip": "C:\\Users\\Frede\\Desktop\\Turn Based Battle System\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Unit.cs",
+              "RelativeToolTip": "TurnBasedBattleSystem\\Unit.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:32:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frede\\Desktop\\Turn Based Battle System\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TurnBasedBattleSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Frede\\Desktop\\Turn Based Battle System\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Program.cs",
+              "RelativeToolTip": "TurnBasedBattleSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:31:11.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
